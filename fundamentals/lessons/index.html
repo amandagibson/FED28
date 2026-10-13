@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lesson 2: Objects, Arrays &amp; the DOM</title>
+  <style>
+    :root {
+      --bg: #1a1f2e;
+      --panel: #242b3d;
+      --text: #e8ecf4;
+      --muted: #9aa3b5;
+      --accent: #5b9fd4;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      padding: 2rem;
+      font-family: Georgia, "Times New Roman", serif;
+      background: linear-gradient(160deg, #1a1f2e 0%, #2a3348 50%, #1e2638 100%);
+      color: var(--text);
+      line-height: 1.5;
+      min-height: 100vh;
+    }
+
+    main {
+      max-width: 40rem;
+      margin: 0 auto;
+    }
+
+    h1 {
+      font-size: 2rem;
+      margin: 0 0 0.5rem;
+    }
+
+    h1 span {
+      color: var(--accent);
+      font-weight: normal;
+    }
+
+    .intro {
+      color: var(--muted);
+      margin-bottom: 2rem;
+    }
+
+    section {
+      margin-bottom: 2rem;
+      padding: 1.25rem 1.5rem;
+      background: var(--panel);
+      border-left: 3px solid var(--accent);
+    }
+
+    h2 {
+      margin: 0 0 0.75rem;
+      font-size: 1.15rem;
+      font-family: ui-monospace, "Cascadia Code", monospace;
+      color: var(--accent);
+    }
+
+    ul {
+      margin: 0;
+      padding-left: 1.25rem;
+    }
+
+    .mainText {
+      margin: 0.5rem 0;
+    }
+
+    .headingClass {
+      text-decoration: underline;
+    }
+
+    code {
+      font-family: ui-monospace, "Cascadia Code", monospace;
+      font-size: 0.9em;
+      background: rgba(0, 0, 0, 0.25);
+      padding: 0.1em 0.35em;
+    }
+  </style>
+  <script defer src="script.js"></script>
+</head>
+<body>
+  <main>
+    <h1 id="heading">The DOM</h1>
+    <p class="intro">Open the browser console to see <code>console.log</code> output from the lesson demos.</p>
+
+    <section>
+      <h2>Arrays</h2>
+      <ul id="colors-list"></ul>
+    </section>
+
+    <section>
+      <h2>Objects</h2>
+      <p id="person-info"></p>
+      <ul id="team-list"></ul>
+    </section>
+
+    <section>
+      <h2>DOM</h2>
+      <p class="mainText">First paragraph — script.js will rewrite this.</p>
+      <p class="mainText">Second paragraph — will turn yellow.</p>
+      <p class="mainText">Third paragraph — will turn yellow.</p>
+      <p class="mainText">Fourth paragraph — will turn yellow.</p>
+    </section>
+  </main>
+</body>
+</html>
