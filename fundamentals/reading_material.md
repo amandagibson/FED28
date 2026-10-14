@@ -1,0 +1,36 @@
+# Reading material
+
+- JavaScript Foundations
+    - [What is JavaScript?](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/What_is_JavaScript)
+    - [JavaScript Foundations](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/A_first_splash)
+- Variables
+    - [var vs let vs const](https://blog.webdevsimplified.com/2020-01/var-vs-let-vs-const/)
+    - [Variables](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Variables)
+    - [Exercises](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Test_your_skills/Variables)
+- Math operations
+    - [Basic Math](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Math)
+    - [Exercises](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Test_your_skills/Math)
+- Strings
+    - [Strings](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Strings)
+    - [String methods](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Useful_string_methods)
+    - [Exercises](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Test_your_skills/Strings)
+- Arrays
+    - [Arrays](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Arrays)
+    - [Exercises](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Test_your_skills/Arrays)
+- Conditionals
+    - [Conditionals](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Conditionals)
+    - [Exercises](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Test_your_skills/Conditionals)
+- Loops
+    - [Loops](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Loops)
+    - [Exercises](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Test_your_skills/Loops)
+- Functions
+    - [Functions](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Functions)
+    - [Build your own functions](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Build_your_own_function)
+    - [Function return values](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Return_values)
+    - [Arrow functions](https://blog.webdevsimplified.com/2020-09/arrow-functions/)
+    - [Exercises](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Test_your_skills/Functions)
+- Objects
+    - [Objects](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Object_basics)
+    - [Exercises](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Test_your_skills/Object_basics)
+- DOM
+    - [DOM](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/DOM_scripting)
