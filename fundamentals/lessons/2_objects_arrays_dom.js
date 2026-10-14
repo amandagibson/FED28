@@ -31,6 +31,16 @@ for (const color of colors) {
   console.log(color);
 }
 
+// --- while loops ---
+// A while loop repeats code as long as a condition is true.
+// You must update something inside the loop, or it never stops.
+
+let count = 0;
+while (count < 3) {
+  console.log(count); // 0, then 1, then 2
+  count = count + 1; // move toward ending the loop
+}
+
 // --- Objects ---
 // An object stores related data as key/value pairs, written with {}.
 // Keys are like labels; values are the data.
