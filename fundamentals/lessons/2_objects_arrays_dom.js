@@ -49,10 +49,15 @@ const person = {
   name: "Ada",
   age: 36,
   isStudent: false,
+  // A function stored on an object is called a method
+  greet: function () {
+    return "Hi";
+  },
 };
 
 console.log(person.name); // "Ada" — dot notation
 console.log(person["age"]); // 36 — bracket notation
+console.log(person.greet()); // "Hi, I'm Ada" — call the method
 
 // Change or add properties
 person.age = 37;
